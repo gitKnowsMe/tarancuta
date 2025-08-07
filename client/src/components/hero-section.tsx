@@ -12,7 +12,7 @@ export default function HeroSection() {
       <div 
         className="h-screen bg-cover bg-center relative" 
         style={{
-          backgroundImage: "url('https://images.unsplash.com/photo-1586985289688-ca3cf47d3e6e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&h=1080')"
+          backgroundImage: "url('/attached_assets/hq720_1754608052710.jpg')"
         }}
       >
         <div className="absolute inset-0 flex items-center justify-center z-20">
