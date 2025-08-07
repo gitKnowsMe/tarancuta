@@ -1,0 +1,104 @@
+Scop: Ajută-mă să creez identitatea vizuală, conținutul și structura unui website pentru o mică afacere locală numită Țărăncuța.
+
+Afacerea oferă un mix de produse de patiserie de casă (plăcinte, biscuiți, pâine etc.) și fructe și legume proaspete de sezon, culese manual.
+
+Brandul trebuie să exprime căldura și autenticitatea unei gospodării țărănești, cu accente feminine și tradiționale, dar și un aer modern, vesel și ușor de folosit pe mobil.
+
+🖼️ Structura homepage „Țărăncuța”
+
+🔝 1. Hero Section
+• Imagine mare cu plăcintă aburindă + coș cu legume
+• Text: „Bunătăți de la Țărăncuța – coapte și culese cu suflet.”
+• Buton: „Vezi ce avem azi 🍓”
+
+⸻
+
+🍞🥕 2. Categorii de produse
+
+🍪 Din Cuptor:
+
+Invârtite, biscuiți de casă, pâine, cozonac de sezon
+
+🥬 Din Grădină:
+
+Legume/fructe sezoniere (cu etichete: „acum în sezon”)
+
+🧺 Coșul Țărăncuței:
+
+Combinații săptămânale: plăcintă + legume + dulceață
+
+⸻
+
+🧕💬 3. Secțiune „Cine e Țărăncuța”
+• Povestea brandului în stil narativ: cine e, cum a început, ce transmite
+• Poze din grădină, din bucătărie, cu prăjituri și coșuri gata de livrare
+• Ton cald, apropiat, sincer
+
+⸻
+
+📦 4. Abonamente & livrare
+• „Coșul săptămânal al Țărăncuței” (3 variante: Mic, Mediu, cu Dulce)
+• Opțiuni de pickup local / livrare acasă
+• Secțiune cu: “Ce livrăm în această săptămână?”
+
+⸻
+
+📸 5. Testimoniale & Instagram
+• Poze de la clienți cu produsele primite
+
+💡 Stil recomandat pentru „Țărăncuța”
+• Design prietenos și feminin, cu elemente tradiționale
+• Mobile-first, clar, cu categorii vizuale
+• Vocabular cu nuanță regională: „prispa”, „coșuleț”, „plăcintă coaptă cu drag”
+• Integrare ușoară a unei secțiuni de blog: „Sfaturi de la Țărăncuța” (păstrare, rețete, sezon)
+⸻
+
+🧁 Ex: Coșul Săptămânii
+
+🧺 Coșul „Luna lui Gustar”
+• 1 plăcintă cu brânză
+• 500g roșii cherry
+• 1 borcan dulceață de mure
+• 1 pâine de casă rotundă
+Preț: 55 lei – livrare inclusă
+
+🪧 Despre Noi – Țărăncuța
+
+Țărăncuța este o mică gospodărie din inima Moldovei, mai exact din satul Cojușna, unde tradiția, grija și gustul autentic se regăsesc în fiecare produs.
+
+În spatele brandului stă Olga, o țărăncuță harnică și pricepută, cunoscută în sat pentru plăcintele rumenite și grădina bogată. Cuptorul ei coace zilnic invârtite, biscuiți, pâine și alte bunătăți de casă, iar grădina oferă roade de sezon – de la roșii zemoase și castraveți crocanți, până la mure, prune sau dovlecei, în funcție de anotimp.
+
+Toate produsele sunt pregătite în loturi mici, cu ingrediente simple și naturale, fără grabă, exact cum se făcea odinioară. Țărăncuța nu este un magazin – este o fărâmă de viață de la țară, adusă mai aproape de cei care tânjesc după gustul copilăriei.
+
+Fie că ești în căutarea unui colț de autentic, fie că vrei ceva proaspăt, curat și făcut cu suflet, Țărăncuța te așteaptă cu drag – cu ce are cuptorul cald și grădina coaptă.
+┌───────────────────────────────────────────┐
+│ HERO SECTION │
+│ [Imagine rustică: Olga în grădină/cuptor]│
+│ „Bunătăți din cuptor și din grădină” │
+│ Buton: [Vezi ce avem azi] │
+└───────────────────────────────────────────┘
+
+┌───────────────────────────────────────────┐
+│ PRODUSE DIN CUPTOR 🍞 │
+│ [Plăcinte] [Biscuiți] [Invârtită] │
+└───────────────────────────────────────────┘
+
+┌───────────────────────────────────────────┐
+│ DIN GRĂDINĂ 🥕 │
+│ [Roșii de Cojușna] [Mure] [Dovlecei] │
+└───────────────────────────────────────────┘
+
+┌───────────────────────────────────────────┐
+│ COȘUL ȚĂRĂNCUȚEI 🧺 │
+│ [Combinație săptămânală cu reducere] │
+└───────────────────────────────────────────┘
+
+┌───────────────────────────────────────────┐
+│ DESPRE NOI │
+│ [Textul de mai sus + imagine cu Olga] │
+└───────────────────────────────────────────┘
+
+┌───────────────────────────────────────────┐
+│ RECENZII + INSTAGRAM │
+│ [Postări clienți + poze + hashtag #țărăncuța] │
+└───────────────────────────────────────────┘
