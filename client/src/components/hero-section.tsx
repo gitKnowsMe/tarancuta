@@ -1,3 +1,5 @@
+import heroImage from "@assets/hq720_1754608052710.jpg";
+
 export default function HeroSection() {
   const scrollToProducts = () => {
     const element = document.getElementById('produse');
@@ -12,7 +14,7 @@ export default function HeroSection() {
       <div 
         className="h-screen bg-cover bg-center relative" 
         style={{
-          backgroundImage: "url('/attached_assets/hq720_1754608052710.jpg')"
+          backgroundImage: `url(${heroImage})`
         }}
       >
         <div className="absolute inset-0 flex items-center justify-center z-20">
